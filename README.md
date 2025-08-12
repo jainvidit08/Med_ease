@@ -1,0 +1,1 @@
+Med Ease is an AI-driven drug recommendation tool that analyzes patient disease and symptoms using NLP, then optimizes drug selection to minimize drug–drug interactions and side effects. It ensures safer, more effective prescriptions by combining medical knowledge graphs with intelligent optimization algorithms.
